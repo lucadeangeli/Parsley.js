@@ -1,5 +1,7 @@
 # Parsley
 
+Forked to remove error thrown against input type="range"
+
 [![Build Status](https://travis-ci.org/guillaumepotier/Parsley.js.png?branch=master)](https://travis-ci.org/guillaumepotier/Parsley.js)
 
 Javascript form validation, without actually writing a single line of javascript!
